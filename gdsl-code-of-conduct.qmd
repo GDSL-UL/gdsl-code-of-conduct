@@ -1,0 +1,61 @@
+---
+title: "Decision Making: Code of Conduct"
+subtitle: "Geographic Data Science Lab"
+format: 
+  pdf: 
+    css: custom.scss
+    fontsize: 11pt
+number-sections: false
+editor: visual
+---
+
+This document aims to set the expected principles to be used for making decisions within the Geographic Data Science Lab (GDSL) in an open, transparent, inclusive, collective and participatory manner that leverages on the diversity of the group.
+
+# Our Pledge
+
+We as members and contributors of GDSL pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+# Principles
+
+To make decisions, we will follow the following set of principles.
+
+## Types of decisions
+
+We will differentiate between different types of decisions:
+
+- Critical decisions: These are decisions that will significantly impact GDSL as a collective or large segments of the group. These include strategic decisions about the management and functioning of the lab.
+
+- Non-critical decisions: These are decisions that will not impact GDSL as a collective or large segments of the group in any significant way. These include day-to-day decisions such as the cancelling or postponing of lab meetings, brown bags and workshops.
+
+- Time-sensitive decisions: These are decisions which require a rapid decision. These types of decisions can intersect with those above i.e. there could be critical time-sensitive decisions or non-critical time-sensitive decisions. 
+
+All these decisions will be handled in different ways. 
+
+## Decision making process
+
+For critical decisions, the following procedure will be used:
+
+- The Lead and Deputy Lead will be responsible to share a written meeting agenda via email or appropriate Teams channel before the staff and postdoc meeting in which issues will be discussed and considered.
+
+- When sharing the meeting agenda, any critical decisions to be discussed during the meeting will be flagged. 
+
+- Before the meeting, GDSL members will have an opportunity to add points to the meeting agenda and share their thoughts and ideas.
+
+- During the meeting, all GDSL members will have an opportunity to share their ideas and provide their perspectives.
+
+- The discussion will end when we will identify and agree a list of potential alternative decisions. 
+
+- These alternatives will be put up for a vote in an anonymous Team poll. The alternative with the majority 50+ will be considered the optimal option. 
+
+- A clear deadline will be given for the closing of the poll. Votes after the deadline will not be considered.
+
+- If the list of potential alternatives has only one option, we allow time for reflection and potentially generate potential options.  
+
+- what happens in the case of 50 / 50
+
+- What happens in the case of non-critical decisions
+
+- What happens in the case of time-sensitive decisions
+
