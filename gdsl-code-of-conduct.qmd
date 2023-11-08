@@ -11,51 +11,94 @@ editor: visual
 
 This document aims to set the expected principles to be used for making decisions within the Geographic Data Science Lab (GDSL) in an open, transparent, inclusive, collective and participatory manner that leverages on the diversity of the group.
 
-# Our Pledge
+# Section 1 Definitions / Terms Used
 
-We as members and contributors of GDSL pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+-   University of Liverpool is hereby referenced as the University.
+-   The Department of Geography & Planning is hereby referenced as the College.
+-   The Geographic Data Science Lab (GDSL) is hereby references as GDSL.
+
+# Section 2 Our Pledge
+
+We as members and contributors of GDSL pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-# Principles
+# Section 3 Meetings
 
-To make decisions, we will follow the following set of principles.
+## Presiding Officer
 
-## Types of decisions
+-   The presiding officer of GDSL meetings shall be GDSL Lead or Deputy-Lead.
+-   When the Lead or Deputy-Lead must be absent from the meeting
+    -   The Lead may designate a Pro Tempore to run the meeting from among the faculty/staff of the Department.
+
+## Meeting Participants
+
+-   Meetings shall be open to staff and post-doctoral members of the GDSL.
+-   Meetings shall be open to non-GDSL staff Faculty who may attend as observers with the permission of any GDSL member.
+-   Freedom of discussion shall be the rule.
+
+## Agenda For Meetings
+
+-   The Lead or Deputy Lead shall prepare the agenda and shall distribute it a minimum of one business days prior to the meeting to all members of GDSL.
+
+-   Any member of GDSL may submit items of business for inclusion on the agenda to the Lead of Deputy Lead. All items submitted at least 2 business days prior to the meeting shall be placed on the agenda.
+
+-   Explanatory or background information on all agenda items shall be prepared by the sponsor of the item and shall be discussed during a Meeting.
+
+## Frequency of Meetings
+
+-   GDSL meetings will typically happen bi-monthly. GDSL meeting will be convened a minimum of once every term.
+
+-   When the agenda of a scheduled meeting is not completed on the scheduled date, the agenda should be completed at the next meeting.
+
+# Section  3 Decisions
+
+## Types of Decisions
 
 We will differentiate between different types of decisions:
 
-- Critical decisions: These are decisions that will significantly impact GDSL as a collective or large segments of the group. These include strategic decisions about the management and functioning of the lab.
+-   Critical decisions: These are decisions that will significantly impact GDSL as a collective or large segments of the group. These include strategic decisions about the management and functioning of the lab.
 
-- Non-critical decisions: These are decisions that will not impact GDSL as a collective or large segments of the group in any significant way. These include day-to-day decisions such as the cancelling or postponing of lab meetings, brown bags and workshops.
+-   Non-critical decisions: These are decisions that will not impact GDSL as a collective or large segments of the group in any significant way. These include day-to-day decisions such as the cancelling or postponing of lab meetings, brown bags and workshops.
 
-- Time-sensitive decisions: These are decisions which require a rapid decision. These types of decisions can intersect with those above i.e. there could be critical time-sensitive decisions or non-critical time-sensitive decisions. 
+-   Time-sensitive decisions: These are decisions which require a rapid decision. These types of decisions can intersect with those above i.e. there could be critical time-sensitive decisions or non-critical time-sensitive decisions.
 
-All these decisions will be handled in different ways. 
+All these decisions will be handled in different ways.
 
-## Decision making process
+## Critical decisions
 
 For critical decisions, the following procedure will be used:
 
-- The Lead and Deputy Lead will be responsible to share a written meeting agenda via email or appropriate Teams channel before the staff and postdoc meeting in which issues will be discussed and considered.
+### Decision options and discussion
 
-- When sharing the meeting agenda, any critical decisions to be discussed during the meeting will be flagged. 
+-   When there is a critical decision to be made, the Lead and Deputy Lead will be responsible to share a written account of the decision to be made via email or appropriate Teams channel before the staff and postdoc meeting in which issues will be discussed and considered.
 
-- Before the meeting, GDSL members will have an opportunity to add points to the meeting agenda and share their thoughts and ideas.
+-   When sharing the meeting agenda, any critical decisions to be discussed during the meeting will be flagged.
 
-- During the meeting, all GDSL members will have an opportunity to share their ideas and provide their perspectives.
+-   During the meeting, all GDSL members will have an opportunity to share their ideas and provide their perspectives.
 
-- The discussion will end when we will identify and agree a list of potential alternative decisions. 
+-   The discussion will end when we will identify and agree a list of potential alternative decisions.
 
-- These alternatives will be put up for a vote in an anonymous Team poll. The alternative with the majority 50+ will be considered the optimal option. 
+-   These alternatives will be put up for a vote
 
-- A clear deadline will be given for the closing of the poll. Votes after the deadline will not be considered.
+### Voting procedures
 
-- If the list of potential alternatives has only one option, we allow time for reflection and potentially generate potential options.  
+Voting may be conducted at a meeting of the Faculty, by email or Teams channel.
 
-- what happens in the case of 50 / 50
+1.  On all ballots, a voting member may vote: affirmative, negative, abstain, or recuse.
+2.  All staff and post-doctoral members are authorized to vote. All members have equal voting rights.
+3.  A simple majority is defined as 51% or greater of the votes cast as affirmative, negative, and abstain.
+4.  A super majority is defined as 67% or greater of the votes cast as affirmative, negative, and abstain.
+5.  Balloting done at meetings shall be extended to any non-attending members via email or Teams channel. If a GDSL member has a business-related conflict for a meeting, the member may submit their ballot by email or Teams.
+6.  A clear deadline will be given for the closing of the poll. In other words, there should be a minimum waiting period of 3 days after the announcement or discussion of a topic before the closing of the poll. Votes after the deadline will not be considered.
+7.  A minimum of fifteen GDSL members need to vote in order for the result to be valid.
+8.  Proxy ballots are not allowed.
+9.  Normally a simple majority as defined in the previous section shall be needed to approve a motion. Per voice vote at a meeting, a super majority can be required to approve a motion.
 
-- What happens in the case of non-critical decisions
+### What happens in the case of 50 / 50
 
-- What happens in the case of time-sensitive decisions
+-   If no consensus is reached upon a topic, a new vote if issued following another GDSL meeting.
 
+## Non-critical decisions
+
+## Time-sensitive decisions
