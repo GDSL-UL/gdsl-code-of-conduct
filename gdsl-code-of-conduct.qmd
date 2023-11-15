@@ -9,12 +9,12 @@ number-sections: false
 editor: visual
 ---
 
-This document aims to set the expected principles to be used for making decisions within the Geographic Data Science Lab (GDSL) in an open, transparent, inclusive, collective and participatory manner that leverages on the diversity of the group.
+This document aims to set the expected principles to be used for making decisions within the Geographic Data Science Lab (GDSL) in an open, transparent, inclusive, collective and participatory manner that leverages on the diversity of the group. This document particularly concerns staff meetings; that is, meetings involving staff in research only, teaching & scholarship, and teaching & research appointments.
 
 # Section 1 Definitions / Terms Used
 
 -   University of Liverpool is hereby referenced as the University.
--   The Department of Geography & Planning is hereby referenced as the College.
+-   The Department of Geography & Planning is hereby referenced as the Department.
 -   The Geographic Data Science Lab (GDSL) is hereby references as GDSL.
 
 # Section 2 Our Pledge
@@ -29,17 +29,17 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 -   The presiding officer of GDSL meetings shall be GDSL Lead or Deputy-Lead.
 -   When the Lead or Deputy-Lead must be absent from the meeting
-    -   The Lead may designate a Pro Tempore to run the meeting from among the faculty/staff of the Department.
+    -   The Lead may designate a Pro Tempore to run the meeting from among the staff / faculty of the Department.
 
 ## Meeting Participants
 
 -   Meetings shall be open to staff and post-doctoral members of the GDSL.
--   Meetings shall be open to non-GDSL staff Faculty who may attend as observers with the permission of any GDSL member.
+-   Meetings shall be open to non-GDSL staff who may attend as observers with the permission of any GDSL member.
 -   Freedom of discussion shall be the rule.
 
 ## Agenda For Meetings
 
--   The Lead or Deputy Lead shall prepare the agenda and shall distribute it a minimum of one business days prior to the meeting to all members of GDSL.
+-   The Lead or Deputy Lead shall prepare the agenda and distribute it with a minimum of one business days prior to the meeting to all members of GDSL.
 
 -   Any member of GDSL may submit items of business for inclusion on the agenda to the Lead of Deputy Lead. All items submitted at least 2 business days prior to the meeting shall be placed on the agenda.
 
@@ -51,7 +51,13 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 -   When the agenda of a scheduled meeting is not completed on the scheduled date, the agenda should be completed at the next meeting.
 
-# Section  3 Decisions
+-   Extraordinary meetings will be scheduled if time-sensitive issues emerge and they cannot be discussed in a scheduled meeting. 
+
+  - Any GDSL member can summon an extraordinary meeting.
+  
+- All meetings will be recorded if any GDSL member cannot attend. 
+
+# Section 4 Decisions
 
 ## Types of Decisions
 
@@ -59,9 +65,9 @@ We will differentiate between different types of decisions:
 
 -   Critical decisions: These are decisions that will significantly impact GDSL as a collective or large segments of the group. These include strategic decisions about the management and functioning of the lab.
 
--   Non-critical decisions: These are decisions that will not impact GDSL as a collective or large segments of the group in any significant way. These include day-to-day decisions such as the cancelling or postponing of lab meetings, brown bags and workshops.
+-   Non-critical decisions: These are decisions that will not impact GDSL as a collective or large segments of the group in any significant way. These include day-to-day decisions such as the cancelling or postponing of lab meetings, brown bag serminars and workshops.
 
--   Time-sensitive decisions: These are decisions which require a rapid decision. These types of decisions can intersect with those above i.e. there could be critical time-sensitive decisions or non-critical time-sensitive decisions.
+-   Time-sensitive decisions: These are decisions which require a rapid decision or action. These types of decisions can intersect with those above i.e. there could be critical time-sensitive decisions or non-critical time-sensitive decisions.
 
 All these decisions will be handled in different ways.
 
@@ -77,28 +83,46 @@ For critical decisions, the following procedure will be used:
 
 -   During the meeting, all GDSL members will have an opportunity to share their ideas and provide their perspectives.
 
--   The discussion will end when we will identify and agree a list of potential alternative decisions.
+-   The discussion will end when we identify and agree a list of potential and well-defined alternative decisions.
 
--   These alternatives will be put up for a vote
+-   These alternatives will be put up for a vote.
 
 ### Voting procedures
 
-Voting may be conducted at a meeting of the Faculty, by email or Teams channel.
+Voting may be conducted (1) at a staff meeting, (2) by email or (3) Teams channel.
 
-1.  On all ballots, a voting member may vote: affirmative, negative, abstain, or recuse.
+1.  On all ballots, a voting member may vote: affirmative, negative, abstain, or recuse. The type of vote will depend on the action being voted and format of the question.
 2.  All staff and post-doctoral members are authorized to vote. All members have equal voting rights.
 3.  A simple majority is defined as 51% or greater of the votes cast as affirmative, negative, and abstain.
 4.  A super majority is defined as 67% or greater of the votes cast as affirmative, negative, and abstain.
 5.  Balloting done at meetings shall be extended to any non-attending members via email or Teams channel. If a GDSL member has a business-related conflict for a meeting, the member may submit their ballot by email or Teams.
 6.  A clear deadline will be given for the closing of the poll. In other words, there should be a minimum waiting period of 3 days after the announcement or discussion of a topic before the closing of the poll. Votes after the deadline will not be considered.
-7.  A minimum of fifteen GDSL members need to vote in order for the result to be valid.
+7.  A minimum of fifteen GDSL members need to vote in order for the result to be valid. If a vote is considered as no valid, the voting period will be extended for an additional three days. By the end of this second round, a decision will be made considering the votes casted up to that point.
 8.  Proxy ballots are not allowed.
 9.  Normally a simple majority as defined in the previous section shall be needed to approve a motion. Per voice vote at a meeting, a super majority can be required to approve a motion.
 
 ### What happens in the case of 50 / 50
 
--   If no consensus is reached upon a topic, a new vote if issued following another GDSL meeting.
+-   If no consensus is reached upon a topic, voting options will be revised and reformulated incorporating new information from discussions held in a follow-up Meeting and a new vote will be issued.
 
 ## Non-critical decisions
 
+For non-critical decisions, the Lead and Deputy Lead will make a decision. If pertinent, they will consult with specific individuals.
+
+- In cases of differing views with a decision or action, issues can be raised with the Lead or Deputy Lead for an explanation, or if required, wider discussion at a Meeting. 
+
 ## Time-sensitive decisions
+
+For time-sensitive decisions, the following procedure will apply:
+
+1.   If a decision must be made between six and 14 days:
+-   The Lead and Deputy Lead will describe the options via Teams. 
+-   A vote will be open for 24hrs.
+-   Votes can be casted by email or Teams channel.
+-   A decision will be made with the votes available at the time of closing. 
+-   Votes outside the 24hrs provided will not be counted.
+-   The same voting procedures around a majority vote and proxy ballots will applied.
+
+2.   If a decision must be made within 5 days or less:
+-   The Lead and Deputy Lead will make a decision and will decide who to consult based on relevance, experience and expertise, with the best interest of the wider group at heart. 
+-    No decisions will be made for personal advantage, or benefit a few within the community. 
