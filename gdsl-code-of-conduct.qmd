@@ -11,6 +11,8 @@ editor: visual
 
 This document aims to set the expected principles to be used for making decisions within the Geographic Data Science Lab (GDSL) in an open, transparent, inclusive, collective and participatory manner that leverages on the diversity of the group. This document particularly concerns staff meetings; that is, meetings involving staff in research only, teaching & scholarship, and teaching & research appointments.
 
+Any changes to this document must be considered following the steps described for Critical decisions below.
+
 # Section 1 Definitions / Terms Used
 
 -   University of Liverpool is hereby referenced as the University.
