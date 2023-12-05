@@ -9,7 +9,7 @@ number-sections: false
 editor: visual
 ---
 
-This document aims to set the expected principles to be used for making decisions within the Geographic Data Science Lab (GDSL) in an open, transparent, inclusive, collective and participatory manner that leverages on the diversity of the group. This document particularly concerns staff meetings; that is, meetings involving staff in research only, teaching & scholarship, and teaching & research appointments.
+This document aims to set the expected principles to be used for making decisions within the Geographic Data Science Lab (GDSL) in an open, transparent, inclusive, collective and participatory manner that leverages on the diversity of the group. This document particularly concerns staff meetings; that is, meetings involving staff in research only, teaching & scholarship, and teaching & research appointments. This includes both permanent and non-permanent staff.
 
 Any changes to this document must be considered following the steps described for Critical decisions below.
 
@@ -37,8 +37,9 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 ## Meeting Participants
 
--   Meetings shall be open to all staff (including both tenured academics and research associates/fellows ) of the GDSL.
+-   Meetings shall be open to all staff (including both tenured academics and research associates/fellows) of the GDSL.
 -   Meetings shall be open to non-GDSL staff who may attend as observers with the permission of any GDSL member.
+-   A representative of the GDSL PhDs will be welcome to attend.
 -   Freedom of discussion shall be the rule.
 
 ## Agenda For Meetings
@@ -83,13 +84,13 @@ For critical decisions, the following procedure will be used:
 
 ### Decision options and discussion
 
--   When there is a critical decision to be made, the Lead and Deputy Lead will be responsible to share a written account of the decision to be made via email or appropriate Teams channel before the staff and postdoc meeting in which issues will be discussed and considered.
+-   When there is a critical decision to be made, the Lead and Deputy Lead will be responsible to share a written account of the decision to be made via email or appropriate Teams channel before the staff meeting in which issues will be discussed and considered.
 
 -   When sharing the meeting agenda, any critical decisions to be discussed during the meeting will be flagged.
 
 -   During the meeting, all GDSL members will have an opportunity to share their ideas and provide their perspectives.
 
-- GDSL members can also provide non-vocal input via Teams or email directed at the Lead or Deputy Lead. The deadline to receive this input will be at 5pm during the day that the meeting took place.
+-   GDSL members can also provide non-vocal input via Teams or email directed at the Lead or Deputy Lead. The deadline to receive this input will be at 5pm during the day that the meeting took place.
 
 -   The discussion will end when we identify and agree a list of potential and well-defined alternative decisions.
 
@@ -100,7 +101,7 @@ For critical decisions, the following procedure will be used:
 Voting may be conducted (1) at a staff meeting, (2) by email or (3) Teams channel.
 
 1.  On all ballots, a voting member may vote: affirmative, negative, abstain, or recuse. The type of vote will depend on the action being voted and format of the question.
-2.  All staff and post-doctoral members are authorized to vote. All members have equal voting rights.
+2.  All staff members are authorized to vote. All members have equal voting rights.
 3.  A simple majority is defined as 51% or greater of the votes cast as affirmative, negative, and abstain.
 4.  A super majority is defined as 67% or greater of the votes cast as affirmative, negative, and abstain.
 5.  Balloting done at meetings shall be extended to any non-attending members via email or Teams channel. If a GDSL member has a business-related conflict for a meeting, the member may submit their ballot by email or Teams.
